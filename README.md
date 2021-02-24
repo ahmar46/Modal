@@ -1,4 +1,4 @@
-### It's just a simple Modal made for my instagram b.
+### It's just a simple Modal made for my instagram bl.
 
 ### Follow me on Instagram- @electrifying_code
 
