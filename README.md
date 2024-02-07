@@ -3,5 +3,5 @@
 ### Technologies Used:- HTML, CSS & Javascript.
 
 ### Find me on Instagram- [@electrifyingcodes][Instagram].
-### Find me on Instagram- [@electrifyingcodes][Intagra
+### Find me on Instagram- [@electrifyingcodes][Intagram
 [Instagram]: https://www.instagram.com/electrifyingcodes
