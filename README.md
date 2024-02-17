@@ -6,4 +6,4 @@
 ### Join my Telegram channel - [@electrifyingcodes][Telegram]
 
 [Instagram]: https://www.instagram.com/electrifyingcodes
-[Instagram]: https://www.instagram.com/electrifyingc
+[Instagram]: https://www.instagram.com/electrifying
