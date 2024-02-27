@@ -7,4 +7,4 @@
 
 [Instagram]: https://www.instagram.com/electrifyingcodes
 [Telegram]: https://www.tgit add .
-git commit .com/electrifyingcodes
+git commi.com/electrifyingcodes
