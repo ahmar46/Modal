@@ -4,7 +4,7 @@
 
 ### Find me on Instagram - [@electrifyingcodes][Instagram].
 ### Join my Telegram channel - [@electrifyingcodes][Telegram]
-### Join my Telegram channel - [@electrifyingcodes][di]
+### Join my Telegram channel - [@electrifyingcodes][dis]
 
 [Instagram]: https://www.instagram.com/electrifyingcodes
 [Telegram]: https://t.me/electrifyingcodes
