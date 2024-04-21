@@ -8,4 +8,4 @@
 
 [Instagram]: https://www.instagram.com/electrifyingcodes
 [Telegram]: https://t.me/electrifyingcodes
-[di]: https://t.me/electrifyingcodes
+[dis]: https://t.me/electrifyingcodes
