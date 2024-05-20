@@ -1,4 +1,4 @@
-### It is a simple Modal, that i made for my Instagram 
+### It is a simple Modal, that i made for my Instagra
 
 ### Technologies Used:- HTML, CSS & Javascript.
 
