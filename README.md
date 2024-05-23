@@ -1,4 +1,4 @@
-### It is a simple Modal, that i made using JS for learni
+### It is a simple Modal, that i made using JS for learnin
 
 ### Technologies Used:- HTML, CSS & Javascript.
 
