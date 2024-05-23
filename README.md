@@ -1,4 +1,4 @@
-### It is a simple Modal, that i made using J
+### It is a simple Modal, that i made using JS
 
 ### Technologies Used:- HTML, CSS & Javascript.
 
