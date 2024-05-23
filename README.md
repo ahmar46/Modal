@@ -1,4 +1,4 @@
-### It is a simple Modal, that i made using JS for learning pu
+### It is a simple Modal, that i made using JS for learning pur
 
 ### Technologies Used:- HTML, CSS & Javascript.
 
