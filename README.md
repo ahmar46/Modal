@@ -10,4 +10,4 @@
 [Telegram]: https://t.me/electrifyingcodes
 [discord]: https://discord.gg/tPkV2HXckn
 
-dsasd
+dsas
